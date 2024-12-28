@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "strict": true,
+    "target": "ESNext",
+    "lib": [ "ESNext", "DOM" ],
+    "sourceMap": true,
+    "types": [ "node" ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
